@@ -1,7 +1,10 @@
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Codigos en Python para utilizar en Jupyter Notebooks.<br>
+<br>
+Repositorio en GitHub contiene:<br>
+1.-Generador de Claves<br>
+El ejemplo permite generar claves ingresando parametros como el largo de la clave, cantidad de letras, números, caracteres especiales.<br>
+<br>
+2.-Data Wrangling (Manipulación de datos)<br>
+Ejemplo de manipulación de datos, se utiliza para definir el procedimiento que consiste en extraer, transformar y mapear la información que se obtiene de los macrodatos.<br>
